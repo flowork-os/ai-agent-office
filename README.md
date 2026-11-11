@@ -1,7 +1,7 @@
 <!-- [FL_INDEX: keywords="flowork, sovereign_os, ai_agent, agent_team, virtual_office, swarm_intelligence, autonomous_marketing, business_intelligence, local_first, bare_metal" | purpose="Official Flowork OS README - Sovereign Autonomous Virtual Office & Multi-Agent Swarm on Bare Metal"] -->
 <div align="center">
 
-# Flowork OS
+# Ai Agent Office
 ### 🏢 3D Sovereign Virtual Office & Autonomous Swarm
 
 <img src="./cover.png" alt="Flowork OS Cover" width="100%" style="border-radius: 8px; margin-bottom: 20px;" />
